@@ -15,7 +15,7 @@ Cada actividad está en formato de celda (como en Jupyter Notebook), con instruc
 ### 1. Clonar el repositorio
 
 ```bash
-
+git clone https://github.com/tobiasgarcete/tp3_tlp3_Tobias_Garcete.git
 
 ## Requisitos
 
